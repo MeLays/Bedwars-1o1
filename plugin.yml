@@ -1,0 +1,31 @@
+name: Bedwars1o1
+version: 1.7
+main: de.melays.bw1o1.main
+author: MeLays
+depend: [StatsAPI]
+softdepend: [Multiverse-Core , PlaceholderAPI , HolographicDisplays]
+commands:
+    bw:
+        description: Bedwars1o1
+        usage: /bw [args]
+    requests:
+        description: Bedwars1o1-Requests
+        usage: /requests
+    challenge:
+        description: Bedwars1o1-getchallenger
+        usage: /challenge
+    accept:
+        description: Bedwars1o1-accept
+        usage: /accept
+    surrender:
+        description: Bedwars1o1-surrender
+        usage: /surrender
+    leave:
+        description: Bedwars1o1-leave
+        usage: /leave
+    stats:
+        description: Bedwars1o1-stats
+        usage: /stats
+    cancle:
+        description: Bedwars1o1-cancle
+        usage: /cancle
